@@ -134,7 +134,7 @@ def main():
         params = build_params()
 
     setup(
-        name='yt-dlp',
+        name='invix_dl',
         version=VERSION,
         maintainer='pukkandan',
         maintainer_email='pukkandan.ytdlp@gmail.com',
